@@ -1,0 +1,24 @@
+languageCode = "pt-br"
+languageName = "Português (Brasil)"
+weight = 1
+title = "@zozores"
+
+[params]
+  displayName = "Português (Brasil)"
+  isoCode = "pt-br"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Site pessoal de Thiago (Zozô) Ozores"
+  copyright = "© 2025 Thiago (Zozô) Ozores - <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR\">CC BY-NC-SA 4.0</a>"
+
+[params.author]
+  name = "Thiago (Zozô) Ozores"
+  headline = "Conhecimento não compartilhado é conhecimento desperdiçado"
+  bio = "Especialista SRE | Instrutor | Professor | Escotista"
+  image = "img/rummikub-joker.png"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/tozores" },
+    { bluesky = "https://bsky.app/profile/zozor.es" },
+    { mastodon = "https://bolha.us/@zozorest" },
+    { github = "https://github.com/zozores" },
+  ]

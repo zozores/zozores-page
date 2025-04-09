@@ -1,0 +1,50 @@
+colorScheme = "blowfish"
+enableSearch = true
+enableCodeCopy = true
+showViews = true
+showLikes = true
+smartTOC = true
+mainSections = ["posts", "snippets"]
+
+[homepage]
+  showRecent = true
+  showRecentItems = 5
+
+[article]
+  showDate = true
+  showViews = true
+  showLikes = true
+  showDateUpdated = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  showEdit = true
+  editURL = "https://github.com/zozores-blowfish/tree/main/content"
+  editAppendPath = true
+  showTableOfContents = true
+  showWordCount = true
+  showReadingTime = true
+  showComments = true
+  showZenMode = true
+  showAuthorBottom = true
+  sharingLinks = ["linkedin", "bluesky", "reddit", "whatsapp", "telegram", "mastodon", "email"]
+
+[list]
+  showViews = false
+  showLikes = false
+
+[firebase]
+  apiKey = "AIzaSyDmhGelMYS6N5Pvv7Vqm2Iazj2hPX6WXes"
+  authDomain = "zozores-blowfish.firebaseapp.com"
+  projectId = "zozores-blowfish"
+  storageBucket = "zozores-blowfish.firebasestorage.app"
+  messagingSenderId = "324387508845"
+  appId = "1:324387508845:web:e49d77341cec249d63e564"
+  measurementId = "G-7PMGY0NC1C"
+
+[buymeacoffee]
+  identifier = "zozores"
+  globalWidget = true
+
+[verification]
+  fediverse = "@zozorest@bolha.us"

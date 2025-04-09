@@ -1,0 +1,6 @@
+baseURL = 'https://zozor.es'
+languageCode = 'pt-br'
+defaultContentLanguage = 'pt-br'
+title = '@zozores'
+theme = "blowfish"
+enableRobotsTXT = true
