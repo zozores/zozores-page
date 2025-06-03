@@ -4,11 +4,12 @@ enableCodeCopy = true
 showViews = true
 showLikes = true
 smartTOC = true
-mainSections = ["posts", "snippets"]
+mainSections = ["articles", "notes"]
 
 [homepage]
   showRecent = true
   showRecentItems = 5
+  cardView = true
 
 [article]
   showDate = true
@@ -27,11 +28,15 @@ mainSections = ["posts", "snippets"]
   showComments = true
   showZenMode = true
   showAuthorBottom = true
+  showTaxonomies = true
   sharingLinks = ["linkedin", "bluesky", "reddit", "whatsapp", "telegram", "mastodon", "email"]
 
 [list]
   showViews = false
   showLikes = false
+  showSummary = true
+  showCards = true
+  cardView = true
 
 [firebase]
   apiKey = "AIzaSyDmhGelMYS6N5Pvv7Vqm2Iazj2hPX6WXes"

@@ -1,11 +1,11 @@
 [[main]]
-  name = "Postagens"
-  pageRef = "posts"
+  name = "Artigos"
+  pageRef = "articles"
   weight = 10
 
 [[main]]
-  name = "Fragmentos"
-  pageRef = "snippets"
+  name = "Notas"
+  pageRef = "notes"
   weight = 20
 
 # [[main]]

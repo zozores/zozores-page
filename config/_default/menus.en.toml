@@ -1,9 +1,9 @@
 [[main]]
-  name = "Posts"
-  pageRef = "posts"
+  name = "Articles"
+  pageRef = "articles"
   weight = 10
 
 [[main]]
-  name = "Snippets"
-  pageRef = "snippets"
+  name = "Notes"
+  pageRef = "notes"
   weight = 20

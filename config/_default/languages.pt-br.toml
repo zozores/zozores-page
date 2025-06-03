@@ -15,10 +15,11 @@ title = "@zozores"
   name = "Thiago (Zozô) Ozores"
   headline = "Conhecimento não compartilhado é conhecimento desperdiçado"
   bio = "Especialista SRE | Instrutor | Professor | Escotista"
-  image = "img/rummikub-joker.png"
+  image = "img/courage.jpg"
   links = [
     { linkedin = "https://www.linkedin.com/in/tozores" },
     { bluesky = "https://bsky.app/profile/zozor.es" },
     { mastodon = "https://bolha.us/@zozorest" },
     { github = "https://github.com/zozores" },
+    { dev = "https://dev.to/zozores" },
   ]
