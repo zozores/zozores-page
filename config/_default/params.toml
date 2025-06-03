@@ -1,4 +1,4 @@
-colorScheme = "blowfish"
+colorScheme = "avocado"
 enableSearch = true
 enableCodeCopy = true
 showViews = true
@@ -9,7 +9,8 @@ mainSections = ["articles", "notes"]
 [homepage]
   showRecent = true
   showRecentItems = 5
-  cardView = true
+  showCards = true
+  cardView = false
 
 [article]
   showDate = true
@@ -36,7 +37,7 @@ mainSections = ["articles", "notes"]
   showLikes = false
   showSummary = true
   showCards = true
-  cardView = true
+  cardView = false
 
 [firebase]
   apiKey = "AIzaSyDmhGelMYS6N5Pvv7Vqm2Iazj2hPX6WXes"

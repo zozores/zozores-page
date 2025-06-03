@@ -13,13 +13,15 @@ title = "@zozores"
 
 [params.author]
   name = "Thiago (Zozô) Ozores"
-  headline = "Conhecimento não compartilhado é conhecimento desperdiçado"
-  bio = "Especialista SRE | Instrutor | Professor | Escotista"
+  headline = "Especialista SRE | Professor | Escotista"
+  bio = "Especialista SRE | Professor | Escotista"
   image = "img/courage.jpg"
   links = [
     { linkedin = "https://www.linkedin.com/in/tozores" },
-    { bluesky = "https://bsky.app/profile/zozor.es" },
-    { mastodon = "https://bolha.us/@zozorest" },
     { github = "https://github.com/zozores" },
+    { gitlab = "https://gitlab.com/zozores" },
+    { codeberg = "https://codeberg.org/zozores" },
+    { bluesky = "https://bsky.app/profile/zozor.es" },
+    { mastodon = "https://social.tao.tec.br/@zozo" },
     { dev = "https://dev.to/zozores" },
   ]
