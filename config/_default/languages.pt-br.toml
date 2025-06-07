@@ -22,6 +22,6 @@ title = "@zozores"
     { gitlab = "https://gitlab.com/zozores" },
     { codeberg = "https://codeberg.org/zozores" },
     { bluesky = "https://bsky.app/profile/zozor.es" },
-    { mastodon = "https://social.tao.tec.br/@zozo" },
+    { mastodon = "https://social.zozo.pro.br/@zozo" },
     { dev = "https://dev.to/zozores" },
   ]
