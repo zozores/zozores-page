@@ -12,8 +12,8 @@ i18n:
   default_locale: pt-br
 
 collections:
-  - name: "index"
-    label: "Index"
+  - name: "home"
+    label: "Home"
     folder: "content"
     i18n: true
     create: true
