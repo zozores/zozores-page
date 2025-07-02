@@ -15,6 +15,7 @@ collections:
   - name: "index"
     label: "Index"
     folder: "content"
+    i18n: true
     create: true
     index_file:
       name: "_index"
