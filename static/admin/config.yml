@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: zozores/zozores-page
+  branch: main
