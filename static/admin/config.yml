@@ -22,14 +22,14 @@ collections:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Draft", name: "draft", widget: "boolean" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", i18n: true }
       - { label: "External URL", name: "externalUrl", widget: "string" }
       - { label: "Featured Image", name: "featureimage", widget: "image" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Categories", name: "categories", widget: "list" }
-      - { label: "Series", name: "series", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", i18n: true }
+      - { label: "Categories", name: "categories", widget: "list", i18n: true }
+      - { label: "Series", name: "series", widget: "list", i18n: true }
       - { label: "Series Order", name: "series_order", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
   - name: "notes"
     label: "Notes"
@@ -41,11 +41,11 @@ collections:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Draft", name: "draft", widget: "boolean" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", i18n: true }
       - { label: "External URL", name: "externalUrl", widget: "string" }
       - { label: "Featured Image", name: "featureimage", widget: "image" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Categories", name: "categories", widget: "list" }
-      - { label: "Series", name: "series", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list", i18n: true }
+      - { label: "Categories", name: "categories", widget: "list", i18n: true }
+      - { label: "Series", name: "series", widget: "list", i18n: true }
       - { label: "Series Order", name: "series_order", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
