@@ -2,3 +2,31 @@ backend:
   name: github
   repo: zozores/zozores-page
   branch: main
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+i18n:
+  structure: multiple_files
+  locales: [en, pt-br]
+  default_locale: pt-br
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Draft", name: "draft", widget: "boolean" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "External URL", name: "externalUrl", widget: "string" }
+      - { label: "Featured Image", name: "featureimage", widget: "image" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Series", name: "series", widget: "list" }
+      - { label: "Series Order", name: "series_order", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
