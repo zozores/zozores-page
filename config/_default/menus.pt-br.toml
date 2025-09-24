@@ -1,12 +1,17 @@
 [[main]]
-  name = "Artigos"
-  pageRef = "articles"
-  weight = 10
+name = "Artigos"
+pageRef = "articles"
+weight = 10
 
 [[main]]
-  name = "Notas"
-  pageRef = "notes"
-  weight = 20
+name = "Tutoriais"
+pageRef = "tutorials"
+weight = 20
+
+[[main]]
+name = "Notas"
+pageRef = "notes"
+weight = 30
 
 # [[main]]
 #   pre = "github"
